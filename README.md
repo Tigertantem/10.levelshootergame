@@ -14,4 +14,8 @@ use arrow keys to move
 
 ## Preview ??!!!  
 
-![The image did not load for u lol ] 
+![In game image] (https://raw.githubusercontent.com/Tigertantem/10.levelshootergame/main/Screenshot%202024-05-29%20231552.png)  
+
+![In game image] (https://raw.githubusercontent.com/Tigertantem/10.levelshootergame/main/Screenshot%202024-05-29%20231649.png)
+
+
