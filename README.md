@@ -12,4 +12,6 @@ use arrow keys to move
 ,'1' is to shoot ,
 '2' is to change the direction of shooting 
 
+## Preview ??!!!  
 
+![The image did not load for u lol ] 
